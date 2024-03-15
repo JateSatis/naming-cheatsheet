@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Maxim's Naming cheatsheet
+# Maxim Danilov's Naming cheatsheet
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
