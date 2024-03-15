@@ -4,7 +4,8 @@
   </a>
 </p>
 
-# Maxim Danilov's from MIREA Naming cheatsheet
+# Maxim Danilov's Naming cheatsheet who is not afraid
+>>>>>>> branch2
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
