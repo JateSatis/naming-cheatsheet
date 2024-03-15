@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Maxim Danilov's Naming cheatsheet
+# Maxim Danilov's from MIREA Naming cheatsheet
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
