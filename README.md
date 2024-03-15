@@ -5,7 +5,7 @@
 </p>
 
 # Maxim Danilov's Naming cheatsheet who is not afraid
->>>>>>> branch2
+# New change1
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
