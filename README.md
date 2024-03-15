@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Naming cheatsheet of someone
+# Naming cheatsheet of someone who is not afraid
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
